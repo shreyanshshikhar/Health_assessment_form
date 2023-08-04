@@ -1,0 +1,83 @@
+{
+    "question": [{
+            "id": 1,
+            "question": "What is the capital city of Australia?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Brisbane"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Which famous scientist developed the theory of relativity?",
+            "options": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Galileo Galilei",
+                "Nikola Tesla"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Which planet is known as the \"Red Planet\"?",
+            "options": [
+                "Mars",
+                "Venus",
+                "Jupiter",
+                "Saturn"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Leonardo da Vinci",
+                "Pablo Picasso",
+                "Claude Monet"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "What is the chemical symbol for water?",
+            "options": [
+                "O2",
+                "CO2",
+                "H2O",
+                "N2"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Which country is known as the 'Land of the Rising Sun'?",
+            "options": [
+                "China",
+                "Japan",
+                "Korea",
+                "Thailand"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Which instrument is used to measure atmospheric pressure?",
+            "options": [
+                "Thermometer",
+                "Barometer",
+                "Hygrometer",
+                "Anemometer"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "options": [
+                "William Shakespeare",
+                "Jane Austen",
+                "Charles Dickens",
+                "Mark Twain"
+            ]
+        }
+    ]
+}
